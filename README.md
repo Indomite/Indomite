@@ -11,8 +11,3 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Indomite" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indomite&layout=compact" />
 </a>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Indomite/count.svg" />
-</p>
